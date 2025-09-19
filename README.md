@@ -1,0 +1,1 @@
+obfuscator kodunu alıyo ve karıştırıyo değişken ısımlerını anlamsız yapıyo boşlukları ve gereksız seylerı sılıyo böylece kodun çalışmaya devam edıyo ama insanlar bakınca ne yaptıgını hemen anlayamıyo yani kodunu gizlıyo ve başkaların kolayca kopyalamasını zorlaştırıyo
